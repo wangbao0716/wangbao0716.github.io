@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Bioinformatics, Huanzhong University of Science and Technology, 2011-2015
+* B.S. in Bioinformatics, Huazhong University of Science and Technology, 2011-2015
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
